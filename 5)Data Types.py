@@ -1,0 +1,10 @@
+x = "hello world"  # str
+x = 420  # int
+x = 69.5  # float
+x = ["AAPL", "TSLA", "NVDA"]  # list
+x = ("AAPL", "TSLA", "NVDA")  # tuple
+x = range(6)  # range
+x = {"name": "AAPL", "price": 200}  # dict
+x = {"AAPL", "TSLA", "NVDA"}  # set
+x = None  # NoneType
+x = True  # bool
